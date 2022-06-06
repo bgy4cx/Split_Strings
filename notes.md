@@ -19,9 +19,9 @@
 
 ### Guardinas
 
-- Input is string. 🔴💿🟢💿
-- Output is an array. 🔴💿🟢💿
+- Input is string. 🔴💿🟢💿♻️💿
+- Output is an array. 🔴💿🟢💿♻️💿
 
 ### Process
 
-- The code has to divide into 2 chars parts. it should replace the missing second character of the final pair with an underscore. 🔴💿🟢💿
+- The code has to divide into 2 chars parts. it replaces the missing second character of the final pair with an underscore. 🔴💿🟢💿♻️💿
