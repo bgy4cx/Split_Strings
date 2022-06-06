@@ -2,4 +2,4 @@
 
 ## 1. Pomodoro
 
-- Questions and decesions.
+- The green phase is done. All tests were completed successfuly.
