@@ -1,4 +1,4 @@
-from main import *
+from main import solution
 
 def test_solution_1():
     assert solution("asdfadsf") == ['as', 'df', 'ad', 'sf']

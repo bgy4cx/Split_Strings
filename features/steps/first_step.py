@@ -1,5 +1,5 @@
-from behave import *
-from main import feature
+from pytest_bdd import given, when, then
+from main import solution
 
 @given('')
 def given_impl(context):
@@ -7,8 +7,8 @@ def given_impl(context):
 
 @when('')
 def when_impl(context):
-    assert (main("") is True)
+    assert (solution("") is [])
 
 @then('')
 def then_impl(context):
-	assert (main("") is True)
+	assert (solution("") is [])
