@@ -8,8 +8,8 @@ def given_impl(context):
 
 @when('')
 def when_impl(context):
-    assert (solution("") is [])
+    assert (solution("") == [])
 
 @then('')
 def then_impl(context):
-	assert (solution("") is [])
+	assert (solution("") == [])
